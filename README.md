@@ -79,6 +79,7 @@ OC_PHASE_ENVIRONMENT_GEN     = 5
 ```
 
 ## How It Fits
+- [OpenConstruct Documentation](https://github.com/SuperInstance/openconstruct-docs) — ecosystem-wide docs and guides
 
 This is the keystone. Every language binding in the OpenConstruct ecosystem — [C](https://github.com/SuperInstance/openconstruct-c), [Python](https://github.com/SuperInstance/openconstruct-python), [Go](https://github.com/SuperInstance/openconstruct-go), [TypeScript](https://github.com/SuperInstance/openconstruct-ts), [Ruby](https://github.com/SuperInstance/openconstruct-ruby), [Swift](https://github.com/SuperInstance/openconstruct-swift), [Zig](https://github.com/SuperInstance/openconstruct-zig), [Java](https://github.com/SuperInstance/openconstruct-java), [C#](https://github.com/SuperInstance/openconstruct-cs), [ESP32](https://github.com/SuperInstance/openconstruct-esp32), [Jetson](https://github.com/SuperInstance/openconstruct-jetson) — either calls this ABI directly or reimplements the same protocol.
 
